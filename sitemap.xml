@@ -1,0 +1,25 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Main Website -->
+  <url>
+    <loc>https://coretechservice.vercel.app/</loc>
+  </url>
+
+  <!-- LinkedIn Optimization Offer Page -->
+  <url>
+    <loc>https://coretechservice.vercel.app/linkedin.html</loc>
+  </url>
+
+  <!-- Portfolio Development Offer Page -->
+  <url>
+    <loc>https://coretechservice.vercel.app/portfolio.html</loc>
+  </url>
+
+  <!-- Website Development Offer Page -->
+  <url>
+    <loc>https://coretechservice.vercel.app/website.html</loc>
+  </url>
+
+</urlset>
